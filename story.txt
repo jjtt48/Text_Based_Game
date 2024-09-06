@@ -1,0 +1,89 @@
+#inicio
+Te despiertas en medio de un bosque oscuro, la niebla envuelve todo a tu alrededor. A lo lejos, escuchas el río fluyendo a tu derecha.
+¿Qué decides hacer?
+1. Caminar hacia el río.
+2. Explorar el bosque más a fondo.
+
+#opcion_1
+Caminas hacia el río, el sonido del agua se hace más fuerte a cada paso. De repente, sientes una presencia detrás de ti.
+¿Qué decides hacer?
+1. Girar rápidamente para ver qué te sigue.
+2. Ignorar la presencia y seguir hacia el río.
+
+#opcion_2
+Decides adentrarte más en el bosque. La oscuridad se intensifica y las sombras parecen moverse. De repente, escuchas un susurro cercano.
+¿Qué decides hacer?
+1. Buscar la fuente del susurro.
+2. Correr en dirección opuesta.
+
+#opcion_1_1
+Giras rápidamente y ves una figura oscura que desaparece entre los árboles. El sonido de un caballo galopando se escucha a lo lejos.
+¿Qué decides hacer?
+1. Correr hacia el río para buscar refugio.
+2. Seguir a la figura oscura.
+
+#opcion_1_2
+Ignoras el sonido y sigues caminando hacia el río. De repente, una fuerte ráfaga de viento sopla y la niebla se dispersa, revelando una mansión antigua.
+¿Qué decides hacer?
+1. Entrar en la mansión.
+2. Seguir explorando el río.
+
+#opcion_2_1
+Buscas la fuente del susurro y encuentras una cueva escondida. El susurro se hace más fuerte.
+¿Qué decides hacer?
+1. Entrar en la cueva.
+2. Escapar del lugar lo más rápido posible.
+
+#opcion_2_2
+Corres en dirección opuesta, pero las pisadas detrás de ti se hacen más fuertes. Te sientes rodeado.
+¿Qué decides hacer?
+1. Esconderte entre los árboles.
+2. Seguir corriendo sin mirar atrás.
+
+#opcion_1_1_1
+Corres hacia el río y encuentras un pequeño bote amarrado. El sonido del caballo se acerca rápidamente.
+¿Qué decides hacer?
+1. Subir al bote y cruzar el río.
+2. Intentar esconderte entre la vegetación.
+
+#opcion_1_1_2
+Sigues a la figura oscura y llegas a una pequeña cabaña abandonada. La puerta está entreabierta.
+¿Qué decides hacer?
+1. Entrar en la cabaña.
+2. Retroceder lentamente y buscar otra opción.
+
+#opcion_1_2_1
+Entras en la mansión, y el eco de tus pasos resuena por todo el lugar. Una escalera vieja cruje frente a ti.
+¿Qué decides hacer?
+1. Subir la escalera.
+2. Explorar la planta baja.
+
+#opcion_1_2_2
+Sigues explorando el río, pero te das cuenta de que alguien te sigue. Un susurro misterioso te llama por tu nombre.
+¿Qué decides hacer?
+1. Volver a la mansión.
+2. Correr hacia el bosque.
+
+#opcion_2_1_1
+Entras en la cueva y el susurro se convierte en un grito. Encuentras una inscripción en la pared que te da escalofríos.
+¿Qué decides hacer?
+1. Leer la inscripción en voz alta.
+2. Salir corriendo de la cueva.
+
+#opcion_2_1_2
+Decides escapar lo más rápido posible, pero tropiezas y caes. El susurro se convierte en un grito ensordecedor.
+¿Qué decides hacer?
+1. Levantarte y seguir corriendo.
+2. Gritar por ayuda.
+
+#opcion_2_2_1
+Te escondes entre los árboles, pero las pisadas se acercan cada vez más. Sientes que algo te está observando.
+¿Qué decides hacer?
+1. Permanecer oculto.
+2. Salir de tu escondite y enfrentarte a lo que sea.
+
+#opcion_2_2_2
+Sigues corriendo sin mirar atrás, pero sientes que te persiguen. El sonido de un caballo se mezcla con el de pisadas humanas.
+¿Qué decides hacer?
+1. Buscar refugio en una cueva cercana.
+2. Correr hacia un claro que ves en la distancia.
