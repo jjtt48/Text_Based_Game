@@ -1,30 +1,25 @@
-# El Misterio del Bosque Sombrío
+# The Mystery of the Dark Forest
 
-## Descripción
-"El Misterio del Bosque Sombrío" es un juego de aventuras interactivo tipo Zork desarrollado en Python. El jugador toma decisiones que afectan el curso de la historia, creando una experiencia personalizada y dinámica. Cada elección lleva al jugador a una nueva sección de la historia, con múltiples finales posibles.
+## Description
+"The Mystery of the Dark Forest" is an interactive adventure game like Zork, developed in Python. The player makes decisions that affect the course of the story, creating a personalized and dynamic experience. Each choice leads the player to a new section of the story, with multiple possible endings.
 
-## Características
-- Juego de texto basado en la línea de comandos.
-- Sonidos 3D espacializados que responden a la narrativa y las decisiones del jugador.
-- Historia interactiva con múltiples opciones y finales.
-- Código limpio y bien documentado.
+## Features
+- Command-line-based text game.
+- 3D spatialized sounds that respond to the narrative and player choices.
+- Interactive story with multiple options and endings.
+- Clean, well-documented code.
 
-## Dependencias
+## Dependencies
 - Python 3.x
 - PyOpenAL (`pip install pyopenal`)
 
-## Ejecución
-1. Clona el repositorio.
-2. Instala las dependencias usando `pip install -r requirements.txt`.
-3. Ejecuta el juego con `python src/main.py`.
-4. Sigue las instrucciones en la línea de comandos para avanzar en la historia y tomar decisiones.
+## Story
+The player wakes up in a dark forest and must make decisions to survive and uncover the hidden secrets of the Dark Forest. Each choice leads them down different paths, revealing a story filled with mystery and danger.
 
-## Historia
-El jugador se despierta en un bosque oscuro, donde debe tomar decisiones para sobrevivir y descubrir los secretos ocultos del Bosque Sombrío. Cada elección lo llevará a diferentes caminos, revelando una historia llena de misterio y peligro.
+## Justification
+This project was developed as part of an Interaction Systems course, with the goal of creating an immersive gaming experience through narrative, sound, and user interaction. The `pyopenal` library was used to implement spatialized sounds that enhance the player's experience.
 
-## Justificación
-Este proyecto fue desarrollado como parte de un curso de Sistemas de Interacción, con el objetivo de crear una experiencia de juego inmersiva a través de la narrativa, el sonido y la interacción del usuario. Se hizo uso de la librería `pyopenal` para implementar sonidos espacializados que enriquecen la experiencia del jugador.
+## Credits
+- **Developers**: Antonio Varona and Juan Jose Toro
+- **Date**: September 2024
 
-## Créditos
-- **Desarrollador**: Antonio Varona y Juan Jose Toro
-- **Fecha**: Septiembre de 2024
