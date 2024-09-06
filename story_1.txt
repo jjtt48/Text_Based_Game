@@ -1,0 +1,278 @@
+#inicio
+Te despiertas solo en un campamento destruido después de una tormenta. Tus compañeros han desaparecido y solo encuentras una nota que dice: "Hemos ido al 
+templo. Nos vemos allí."
+¿Qué decides hacer?
+1. Seguir el rastro hacia el templo.
+2. Explorar el campamento en busca de más pistas.
+
+#opcion_1
+Decides seguir el rastro hacia el templo. El mapa indica que está en el centro de la isla, pero el terreno es peligroso.
+¿Qué decides hacer?
+1. Tomar el camino largo bordeando la selva.
+2. Seguir el camino corto, aunque es más arriesgado.
+
+#opcion_2
+Exploras el campamento, pero no encuentras nada más útil. Decides seguir el rastro de la nota.
+¿Qué decides hacer?
+1. Tomar el camino largo bordeando la selva.
+2. Seguir el camino corto, aunque es más arriesgado.
+
+#opcion_1_1
+Tomas el camino largo bordeando la selva. Después de horas de caminata, llegas a un río caudaloso con un viejo puente de madera.
+¿Qué decides hacer?
+1. Cruzar el puente, aunque parece inestable.
+2. Buscar una manera de cruzar el río sin usar el puente.
+
+#opcion_1_2
+Te adentras en la selva por el camino más corto. Es difícil caminar entre la vegetación densa. Después de un rato, llegas a una pequeña cueva.
+¿Qué decides hacer?
+1. Entrar en la cueva y descansar un poco.
+2. Ignorar la cueva y seguir hacia el templo.
+
+#opcion_2_1
+Caminas por la orilla del río y finalmente encuentras un lugar para vadearlo. La corriente es fuerte, pero logras cruzar al otro lado.
+¿Qué decides hacer?
+1. Continuar hacia el templo por el sendero claro.
+2. Descansar un momento antes de seguir.
+
+#opcion_2_2
+Te aventuras por el camino corto, a pesar de su peligrosidad. Te encuentras con un claro donde ves señales de tus compañeros: marcas en el suelo y equipo 
+abandonado.
+¿Qué decides hacer?
+1. Explorar el área en busca de más pistas.
+2. Continuar hacia el templo.
+
+#opcion_1_1_1
+Cruzando el puente, escuchas cómo crujen las tablas bajo tus pies. Logras llegar al otro lado, pero el puente parece que no soportará mucho más peso.
+¿Qué decides hacer?
+1. Seguir el sendero hacia el templo.
+2. Regresar y buscar otro camino.
+
+#opcion_1_2_1
+Decides descansar en la cueva. Al descansar, oyes ruidos extraños desde el fondo de la cueva. Te sientes inquieto.
+¿Qué decides hacer?
+1. Explorar el interior de la cueva.
+2. Salir de la cueva y seguir hacia el templo.
+
+#opcion_1_1_2
+Decides no cruzar el puente. Tras buscar más tiempo, encuentras un lugar donde puedes vadear el río. Aunque la corriente es fuerte, logras cruzar.
+¿Qué decides hacer?
+1. Seguir caminando hacia el templo.
+2. Descansar un poco antes de continuar.
+
+#opcion_2_2_1
+Exploras el área donde encuentras señales de tus compañeros. Ves huellas y equipo abandonado, pero no hay indicios de hacia dónde fueron. Solo queda seguir el camino hacia el templo.
+¿Qué decides hacer?
+1. Continuar hacia el templo sin detenerte.
+2. Buscar más pistas en los alrededores.
+
+#opcion_1_1_2_1
+Decides seguir caminando hacia el templo después de cruzar el río. El cansancio empieza a afectar tu concentración, pero sigues adelante.
+¿Qué decides hacer?
+1. Continuar sin detenerte, confiando en que te falta poco para llegar.
+2. Descansar antes de avanzar.
+
+#opcion_1_2_1_1
+Exploras el interior de la cueva, a pesar de los ruidos extraños. Después de caminar unos metros, encuentras inscripciones en las paredes que parecen antiguas.
+¿Qué decides hacer?
+1. Estudiar las inscripciones para tratar de descifrarlas.
+2. Volver a la entrada y continuar hacia el templo.
+
+#opcion_1_1_1_1
+Decides seguir el sendero hacia el templo después de cruzar el puente. Llegas a una bifurcación en el camino: a la derecha parece un sendero menos transitado, mientras que el de la izquierda está más desgastado por el uso.
+¿Qué decides hacer?
+1. Tomar el sendero de la derecha.
+2. Tomar el sendero de la izquierda.
+
+#opcion_1_2_2_1
+Decides salir de la cueva y seguir tu camino hacia el templo. Pronto llegas a un claro, y a lo lejos, puedes ver la estructura del templo sobre una colina.
+¿Qué decides hacer?
+1. Subir la colina de inmediato.
+2. Explorar el claro antes de continuar.
+
+#opcion_2_2_1_1
+Decides continuar hacia el templo sin detenerte, preocupado por tu equipo perdido. Mientras avanzas, encuentras una mochila perteneciente a uno de tus compañeros.
+¿Qué decides hacer?
+1. Revisar la mochila para obtener más pistas.
+2. Ignorar la mochila y seguir hacia el templo.
+
+#opcion_1_1_1_1_1
+Tomas el sendero de la derecha, que es menos transitado. Mientras avanzas, empiezas a notar rastros de tus compañeros: una brújula rota y una linterna abandonada.
+¿Qué decides hacer?
+1. Recoger los objetos para analizarlos.
+2. Seguir caminando sin detenerte.
+
+#opcion_1_1_1_1_2
+Tomas el sendero de la izquierda, que parece más transitado. A lo lejos, ves el templo entre la vegetación densa.
+¿Qué decides hacer?
+1. Acelerar el paso y llegar al templo lo antes posible.
+2. Mantener el ritmo para no desgastarte demasiado antes de llegar.
+
+#opcion_1_2_2_2
+Decides explorar el claro antes de subir la colina hacia el templo. Mientras buscas, encuentras marcas de herramientas en la tierra.
+¿Qué decides hacer?
+1. Investigar las marcas para ver si tu equipo estuvo aquí.
+2. Ignorar las marcas y seguir subiendo la colina.
+
+#opcion_2_2_1_2
+Revisas la mochila de tu compañero. Encuentras un mapa del templo y algunas notas que indican que algo salió mal al intentar entrar.
+¿Qué decides hacer?
+1. Seguir el mapa para evitar los errores de tu equipo.
+2. Ignorar las notas y seguir tu intuición.
+
+#opcion_1_1_1_2_1
+Recoges la brújula rota y la linterna abandonada. Parece que tus compañeros las dejaron atrás deliberadamente. No hay tiempo que perder.
+¿Qué decides hacer?
+1. Acelerar el paso hacia el templo.
+2. Hacer una pausa para pensar en lo que pudo haber pasado.
+
+#opcion_1_1_1_2_2
+Sigues el camino más transitado sin prisa, manteniendo el ritmo. El templo está cada vez más cerca.
+¿Qué decides hacer?
+1. Subir de inmediato a la estructura principal del templo.
+2. Explorar los alrededores antes de entrar.
+
+#opcion_1_2_1_2_1
+Decides investigar las marcas en el claro. Al hacerlo, te das cuenta de que fueron hechas por tus compañeros, quienes probablemente estuvieron aquí antes de entrar al templo.
+¿Qué decides hacer?
+1. Seguir el rastro hacia el templo.
+2. Marcar la zona como referencia por si tienes que volver.
+
+#opcion_2_2_1_2_1
+Sigues el mapa y te das cuenta de que hay un camino oculto que tu equipo podría haber pasado por alto. Este camino parece llevar directamente a la entrada trasera del templo.
+¿Qué decides hacer?
+1. Tomar el camino oculto hacia el templo.
+2. Seguir por el sendero principal hacia la entrada frontal.
+
+#opcion_1_1_1_1_1_1
+Aceleras el paso, pero cuando llegas a la entrada del templo, notas que algo no está bien. Las puertas están entreabiertas y hay marcas de lucha en el suelo.
+¿Qué decides hacer?
+1. Entrar en el templo para ver qué ocurrió.
+2. Esperar afuera y observar antes de entrar.
+
+#opcion_1_1_1_1_1_1
+Decides entrar en el templo para investigar. Al cruzar las puertas de piedra, el eco de tus pasos resuena en la vasta sala vacía. Ves algo en el suelo: es el cuaderno de tu jefe de expedición.
+¿Qué decides hacer?
+1. Leer el cuaderno para obtener más información.
+2. Ignorar el cuaderno y explorar la sala principal.
+
+#opcion_1_1_1_1_1_2
+Decides esperar afuera y observar el templo. El viento sopla y escuchas un leve crujido proveniente del interior. Alguien o algo podría estar adentro.
+¿Qué decides hacer?
+1. Entrar con cautela en el templo.
+2. Dar un rodeo al templo antes de entrar.
+
+#opcion_2_2_1_2_1_1
+Tomas el camino oculto que aparece en el mapa de tu compañero. A medida que avanzas, el sendero se vuelve más estrecho, pero te lleva a una puerta trasera del templo, oculta por la vegetación.
+¿Qué decides hacer?
+1. Entrar por la puerta trasera y explorar la zona.
+2. Rodear el templo para entrar por la entrada principal.
+
+#opcion_1_1_1_2_1_1
+Entrar al templo desde la entrada principal es tu única opción. Las puertas de piedra son pesadas y hacen un fuerte ruido al abrirse. Adentro, todo está cubierto de polvo, como si nadie hubiera estado aquí en siglos.
+¿Qué decides hacer?
+1. Explorar la sala principal.
+2. Seguir hacia el altar central que ves al fondo.
+
+#opcion_1_1_1_2_1_2
+Decides rodear el templo para explorar antes de entrar. Encuentras más señales de tus compañeros: herramientas tiradas y marcas en la pared del templo.
+¿Qué decides hacer?
+1. Entrar al templo por la puerta trasera.
+2. Volver a la entrada principal.
+
+#opcion_2_2_1_2_2_1
+Te diriges hacia el altar central. Al acercarte, ves que hay un artefacto antiguo sobre el altar, brillando tenuemente. Las notas de tu jefe mencionan algo sobre una trampa.
+¿Qué decides hacer?
+1. Tomar el artefacto.
+2. Dejarlo y seguir investigando.
+
+#opcion_1_1_1_2_1_2_1
+Decides entrar por la puerta trasera del templo. La entrada es estrecha y está cubierta de vegetación. Al adentrarte, sientes el aire pesado y una sensación de abandono.
+¿Qué decides hacer?
+1. Explorar el pasillo oscuro que se extiende a tu derecha.
+2. Subir una escalera desgastada que ves a la izquierda.
+
+#opcion_1_1_1_2_2_1
+Subes hacia el altar central, pero antes de llegar, escuchas un ruido fuerte detrás de ti. Cuando te giras, ves que las puertas del templo se han cerrado.
+¿Qué decides hacer?
+1. Ignorar el ruido y seguir hacia el altar.
+2. Tratar de abrir las puertas nuevamente.
+
+#opcion_2_2_1_2_1_2
+Decides no tomar el artefacto y sigues investigando. Al girar la esquina, encuentras una trampilla en el suelo.
+¿Qué decides hacer?
+1. Abrir la trampilla y ver qué hay abajo.
+2. Ignorarla y seguir investigando la sala.
+
+#opcion_1_1_1_2_2_2
+Te diriges a las puertas del templo, pero están cerradas desde dentro. El eco de tus movimientos resuena en la sala vacía.
+¿Qué decides hacer?
+1. Golpear las puertas e intentar abrirlas.
+2. Buscar otra salida desde el interior.
+
+#opcion_1_1_1_2_1_1_1
+Decides investigar el pasillo oscuro. A medida que avanzas, el aire se vuelve más denso y la oscuridad más opresiva. De repente, oyes un ruido de agua goteando.
+¿Qué decides hacer?
+1. Seguir el sonido del agua.
+2. Volver al altar y seguir investigando.
+
+#opcion_2_2_1_2_2_1_1
+Decides abrir la trampilla. El aire que sube desde abajo es húmedo y frío. Ves una escalera que baja a las profundidades del templo.
+¿Qué decides hacer?
+1. Bajar por la escalera.
+2. Cerrar la trampilla y seguir investigando.
+
+#opcion_1_1_1_2_1_2_1_1
+Decides subir la escalera desgastada. Cada paso hace que las escaleras crujan. Al llegar al piso superior, te encuentras en una pequeña habitación con inscripciones en las paredes.
+¿Qué decides hacer?
+1. Leer las inscripciones.
+2. Volver al altar central.
+
+#opcion_1_1_1_2_2_2_1
+Decides golpear las puertas e intentar abrirlas. Después de un tiempo, logras forzarlas y sales del templo. Estás de nuevo afuera.
+¿Qué decides hacer?
+1. Volver a explorar el área circundante.
+2. Entrar de nuevo al templo, decidido a encontrar respuestas.
+
+#opcion_2_2_1_2_2_1_2
+Cierras la trampilla y decides seguir investigando la sala. A lo lejos, ves una puerta oculta detrás de una cortina.
+¿Qué decides hacer?
+1. Abrir la puerta y explorar.
+2. Ignorar la puerta y regresar al altar.
+
+#opcion_2_2_1_2_2_1_2_1
+Decides abrir la puerta oculta. Al otro lado, encuentras una sala llena de tesoros antiguos. En el centro, un sarcófago adornado con joyas.
+¿Qué decides hacer?
+1. Investigar el sarcófago.
+2. Ignorar el sarcófago y salir de la sala.
+
+#opcion_2_2_1_2_2_1_2_1_1
+Decides investigar el sarcófago. Al abrirlo, te encuentras con los restos de un antiguo gobernante. De repente, las paredes empiezan a temblar.
+¿Qué decides hacer?
+1. Salir corriendo antes de que el templo colapse.
+2. Tratar de cerrar el sarcófago y detener el colapso.
+
+#opcion_1_1_1_2_1_2_1_2
+Decides regresar al altar. El brillo del artefacto parece más fuerte ahora.
+¿Qué decides hacer?
+1. Tomar el artefacto.
+2. Dejarlo y salir del templo.
+
+#opcion_1_1_1_2_2_2_1_2
+Decides investigar las inscripciones. Las palabras describen una maldición asociada al artefacto en el altar. Si alguien lo toma, liberará un mal antiguo sobre la isla.
+¿Qué decides hacer?
+1. Advertir a tu equipo.
+2. Dejar el templo antes de que sea demasiado tarde.
+
+#opcion_2_2_1_2_2_1_2_1_2
+Ignoras el sarcófago y decides salir de la sala. Al hacerlo, sientes que el templo se sacude ligeramente.
+¿Qué decides hacer?
+1. Escapar del templo lo antes posible.
+2. Investigar más antes de salir.
+
+#opcion_2_2_1_2_2_1_2_1_1_2
+Tratas de cerrar el sarcófago para detener el colapso. Las paredes dejan de temblar, pero ahora estás atrapado dentro de la sala.
+¿Qué decides hacer?
+1. Buscar una salida alternativa.
+2. Esperar ayuda.
+
